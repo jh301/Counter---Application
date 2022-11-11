@@ -1,0 +1,35 @@
+body{
+    background-image: url(subway.jpg);
+    background-size: cover;
+    /* height: 300px; */
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+}
+#main{
+    text-align: center;
+}
+#sec{
+    text-align: center;
+}
+button{
+    /* float: left; */
+    height: 40px;
+    width: 80px;
+    border: none;
+    border-radius: 15px;
+}
+#incr{
+    background-color: green;
+}
+#sav{
+    margin-top: 20px;
+    background-color: brown;
+}
